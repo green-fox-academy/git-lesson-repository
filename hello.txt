@@ -1,5 +1,14 @@
 hello
 
+<<<<<<< HEAD
 ezt én is átírom
 
 meg mégegy sort
+=======
+szia Bela,
+ez az elso kollaboracionk.
+
+most csinaltam nehany valtoztatast ezzel a szoveggel.
+
+Geza
+
