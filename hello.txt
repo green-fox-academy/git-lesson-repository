@@ -1,10 +1,11 @@
 hello
 
-<<<<<<< HEAD
 ezt én is átírom
 
 meg mégegy sort
+
 =======
+
 szia Bela,
 ez az elso kollaboracionk.
 
@@ -12,6 +13,12 @@ most csinaltam nehany valtoztatast ezzel a szoveggel.
 
 Geza
 
-
+=======
 
 ez megint valtoztatas
+
+=======
+
+2. modosítas
+
+>>>>>>> 654ca39d76996ba2baef08086d7f8398eac841d9
