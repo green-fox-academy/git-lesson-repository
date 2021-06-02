@@ -1,0 +1,1 @@
+Echo a string to a file
